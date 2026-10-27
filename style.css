@@ -18,7 +18,7 @@ body{
     text-align: center;
     border: 2px solid #001aff;
     border-radius: 50px 0;
-    box-shadow: 0 14px 15px 6px -1px rgba(0, 0, 0.05);
+    box-shadow: 16px 14px 6px -1px rgba(0, 0, 0.05);
 }
 .kartu-profile h2{
     color: #001ea1;
