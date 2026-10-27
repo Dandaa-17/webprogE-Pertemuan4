@@ -54,7 +54,6 @@
 
 <script>
     function info(){
-        alert("Tombol Lengkap di ke click");
         //alert("Tombol Lengkap di ke click");
         let info = document.getElementById("infobox");
         let btndetail= document.getElementById("btndetail");
